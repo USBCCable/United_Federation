@@ -1,3 +1,8 @@
+The start of this doc is more a checklist, you don't have to care about this too much beyond mere curiosity;
+Files to visit
+x Read me
+
+
 This mod is designed and developed off of the following;
 
 # Social Democracy: An Alternate History
