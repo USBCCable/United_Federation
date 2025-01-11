@@ -1,3 +1,5 @@
+This mod is designed and developed off of the following;
+
 # Social Democracy: An Alternate History
 
 ## Included Libraries
